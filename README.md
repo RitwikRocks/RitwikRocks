@@ -14,7 +14,7 @@
 - 👨‍💻 Currently Software Developer Engineer (SDE-1) at [Capillary Technologies](https://www.capillarytech.com/) <img src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="30">
 - 🔭 Looking to collaborate on Web Development Projects.
 - 🌱 Love Exploring New Technologies.
-- ⚡ Fun fact: I love Leading Projects! 💖
+- ⚡ Fun fact: I love Learning and Leading Projects! 💖
 - 📚 Electronics and Communication Engineering Graduate from [NIT Jamshedpur](https://www.nitjsr.ac.in/) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 😃 Feel free to check out my repositories and connect with me.
