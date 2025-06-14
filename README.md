@@ -13,7 +13,7 @@
 ### About Me
 
 
-- 👨‍💻 Currently Software Developer Engineer (SDE-1) at<a href="https://www.capillarytech.com/"> Capillary Technologies <img src="" width="30">
+- 👨‍💻 Currently Software Developer Engineer (SDE-1) at<a href="https://www.capillarytech.com/"> Capillary Technologies <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2plNGY4cnJ6OHNsaWxlMTJrNnNhMWp5ajRtYnE4N3dya2VjNnUycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30">
 - 🔭 Looking to collaborate on Web development Projects.
 - 🌱 Love Exploring New Technologies.
 - ⚡ Fun fact I love Leading Projects 💖
